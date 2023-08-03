@@ -75,15 +75,18 @@
 
 
 <h3 align="center">Statistical Data :-</h3>
+<br>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Taruns123&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="Tarun" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Taruns123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Tarun" /></p>
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taruns123&theme=vue-dark&hide_border=true" alt="Tarun" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taruns123&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Tarun" /></p>
-      
+<br>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taruns123&theme=gotham&hide_border=false" alt="Tarun" /></p>
+<br>
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taruns123&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="Tarun" /></p>
+    <br>  
+    <br>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
