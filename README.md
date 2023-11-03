@@ -76,6 +76,7 @@
 
 <h3 align="center">Statistical Data :-</h3>
 <br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/Tarun_Shetty?ext=contest) -->
 
 <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/Tarun_Shetty?ext=contest" alt="Tarun" /></p>
