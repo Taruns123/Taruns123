@@ -76,7 +76,7 @@
 
 <h3 align="center">Statistical Data :-</h3>
 <br>
-![](https://leetcard.jacoblin.cool/Tarun_Shetty?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Tarun_Shetty?ext=contest)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Taruns123&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="Tarun" /></p>
 
